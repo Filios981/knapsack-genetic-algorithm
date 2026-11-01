@@ -1,0 +1,6 @@
+# edge case: every item is heavier than the capacity, optimum value = 0 (empty knapsack)
+# capacity=5
+weight;value
+10;60
+8;15
+6;40

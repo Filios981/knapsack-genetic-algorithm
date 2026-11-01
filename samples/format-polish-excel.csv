@@ -1,0 +1,8 @@
+﻿# Polish Excel export: semicolons, decimal commas, Polish header with number column
+# optimum value = 32 (items 2, 4), weight = 9,5 (brute force; DP not applicable - non-integer weights)
+# pojemność=10,5
+Nr;Waga;Wartość
+1;2,5;10
+2;4,0;12
+3;3,5;9
+4;5,5;20

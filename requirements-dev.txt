@@ -1,0 +1,14 @@
+# Zależności deweloperskie: aplikacja + testy + jakość kodu + pakowanie.
+# Instalacja: pip install -r requirements-dev.txt
+-r requirements.txt
+
+# --- Testy ---
+pytest==9.1.1
+pytest-cov==7.1.0               # raport pokrycia kodu testami
+pytest-qt==4.5.0                # testy interfejsu (QApplication, sygnały, kliknięcia)
+
+# --- Jakość kodu ---
+ruff==0.17.1                    # analiza statyczna i formatowanie
+
+# --- Pakowanie ---
+pyinstaller==6.22.3             # paczka z plikiem .exe dla komputera bez Pythona

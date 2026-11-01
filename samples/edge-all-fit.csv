@@ -1,0 +1,6 @@
+# edge case: total weight 60 <= capacity, optimum = all items, value = 150
+# capacity=100
+weight;value
+10;20
+20;50
+30;80

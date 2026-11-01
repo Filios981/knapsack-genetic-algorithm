@@ -1,0 +1,6 @@
+Pojemność plecaka: 26 kg
+Przedmiot 1: wartość 24 zł, waga 12 kg
+Przedmiot 2: wartość 13 zł, waga 7 kg
+Przedmiot 3: wartość 23 zł, waga 11 kg
+Przedmiot 4: wartość 15 zł, waga 8 kg
+Przedmiot 5: wartość 16 zł, waga 9 kg

@@ -1,0 +1,25 @@
+# rosetta-22-items: 22 items, optimum value = 1030 (exact DP), optimum weight = 396
+# capacity=400
+name;weight;value
+mapa;9;150
+kompas;13;35
+woda;153;200
+kanapka;50;160
+glukoza;15;60
+konserwa;68;45
+banan;27;60
+jabłko;39;40
+ser;23;30
+piwo;52;10
+krem do opalania;11;70
+aparat fotograficzny;32;30
+koszulka;24;15
+spodnie;48;10
+parasol;73;40
+spodnie przeciwdeszczowe;42;70
+kurtka przeciwdeszczowa;43;75
+portfel;22;80
+okulary przeciwsłoneczne;7;20
+ręcznik;18;12
+skarpetki;4;50
+książka;30;10

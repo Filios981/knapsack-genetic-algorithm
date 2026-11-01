@@ -1,0 +1,19 @@
+# Konfiguracja narzędzi Pythona (zależności: requirements*.txt).
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "--import-mode=importlib"
+qt_api = "pyqt6"
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+src = ["."]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "PL", "RUF"]
+ignore = [
+    "PLR2004",  # „magiczne” liczby w porównaniach — częste i czytelne w testach
+]
+allowed-confusables = ["–", "−"]  # półpauza w polskich komentarzach, znak minus na przycisku „− Usuń”

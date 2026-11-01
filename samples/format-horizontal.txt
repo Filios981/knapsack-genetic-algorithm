@@ -1,0 +1,3 @@
+Wagi:      12  7  11  8  9
+Wartości:  24  13 23  15 16
+Pojemność: 26

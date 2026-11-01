@@ -1,0 +1,8 @@
+# p02-5-items: 5 items, optimum value = 51 (exact DP), optimum weight = 26
+# capacity=26
+weight;value
+12;24
+7;13
+11;23
+8;15
+9;16

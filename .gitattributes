@@ -1,0 +1,8 @@
+# Normalizacja końców linii w plikach tekstowych
+* text=auto
+
+# Zbiory przykładowe testują BOM, kodowanie Windows-1250 i końce linii CRLF — git nie może ich zmieniać
+samples/** -text
+
+*.png binary
+*.pdf binary

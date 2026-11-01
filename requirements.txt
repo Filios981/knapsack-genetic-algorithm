@@ -1,0 +1,5 @@
+# Zależności aplikacji.
+# Wersje przypięte dokładnie dla powtarzalnej instalacji (sprawdzone na Python 3.11, Windows 11).
+
+PyQt6==6.11.0                   # interfejs graficzny
+matplotlib==3.11.2              # wykres przystosowania w kolejnych pokoleniach (backend QtAgg w PyQt6)
